@@ -1,2 +1,1 @@
-# Image-Sementic-Segmentation
-SEGMENT DIFFERENT PARTS OF AN IMAGE
+# Image-Semantic-Segmentation
